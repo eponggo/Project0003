@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+}
+.header{
+overflow: hidden;
+}
+
+.logo{
+height: 100px;
+background-color: rgb(58, 60, 211);
+text-align: center;
+width: 30%;
+float: left;
+text-align: center;
+padding-top: 50px;
+
+}
+.logo h1{
+    color: rgb(255, 255, 255);
+}
+.manu{
+
+background-color: brown;
+width: 70%;
+height: 100px;
+float: left;
+text-align: center;
+padding-top: 50px;
+}
+.manu h1{
+
+color: cadetblue;
+}
+
+.Bar{
+    height: 100px;
+    background-color: rgb(224, 101, 0);
+    text-align: center;
+    padding-top: 50px;
+  
+}
+.Bar h1{
+color: rgb(253, 253, 253);
+
+}
+.content {
+overflow: hidden;
+}
+
+.left{
+width: 20%;
+height: 500px;
+background-color: darkblue;
+float: left;
+}
+
+.center{
+width: 60%;
+height: 500px;
+background-color: darkgoldenrod;
+float: left;
+}
+
+.right{
+width: 20%;
+height: 500px;
+background-color: darkgrey;
+float: left;
+
+}
+
+
+.top{
+height: 30%;
+background-color: gold;
+}
+
+.middle{
+height: 40%;
+background: green;
+overflow: hidden;
+}
+
+.bottom{
+height: 30%;
+background: greenyellow;
+}
+
+.left_middle{
+width: 50%;
+background: lightcyan;
+float: left;
+height: 100%;
+}
+.right_middle{
+
+    width: 50%;
+    background: rgb(0, 0, 0);
+    float: left;
+    height: 100%;
+}
+
+.footer{
+    background-color: orange;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
